@@ -18,7 +18,7 @@ Check out some projects I've worked on:
 
 ## 📫 Connect with Me
 
-- **Discord** [noshirayuki]
+- **Discord** [@noshirayuki]
 - **Portfolio:** [message me]
 
 ## 🤝 Open to Collaboration
