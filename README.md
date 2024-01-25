@@ -19,7 +19,7 @@ Check out some projects I've worked on:
 ## 📫 Connect with Me
 
 - **Discord** [@noshirayuki]
-- **Portfolio:** [message me]
+- **TryHackMe:** [@dalev]
 
 ## 🤝 Open to Collaboration
 
